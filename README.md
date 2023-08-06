@@ -25,9 +25,6 @@
 ## Description
 
 Um gerenciador de biblioteca que criei para aprender Nest.js
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
